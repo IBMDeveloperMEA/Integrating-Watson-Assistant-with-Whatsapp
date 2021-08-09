@@ -60,104 +60,100 @@ Anyone interested in AI and chatbots is welcome to attend the workshop, but it i
 🎙️ Speakers <br />
 - Mridul Bhandari, IBM Developer Advocate, https://www.linkedin.com/in/mridul-bhandari
 - Khalil Faraj, IBM Developer Advocate, https://www.linkedin.com/in/khalilfaraj/
-- Hashim Noor, IBM Technical Specialist, https://www.linkedin.com/in/hashim-noor/
 
 🎈 Prerequisites <br />
-☁ Register for a free IBM Cloud Account: https://ibm.biz/whatsapp-chatbot <br />
+☁ Register for a free IBM Cloud Account: http://ibm.biz/bootcamp-alu <br />
 ☁ Sign up for a Twilio account: https://ibm.biz/whatsapp-chatbot-twilio
 
-🍉 Register for the live stream and replay on Crowdcast: https://www.crowdcast.io/e/whatsapp-chatbot <br />
+🍉 Register for the live stream and replay on Crowdcast: https://www.crowdcast.io/e/africa-bootcamp3 <br />
 
 👩‍💻Resources <br />
-- Survey - https://ibm.biz/whatsapp-chatbot-survey
-- GitHub Repository - https://ibm.biz/whatsapp-chatbot-repo
+- Survey - https://ibm.biz/BdfeHQ
+- GitHub Repository - https://ibm.biz/bootcamp-alu-repo
 - Workshop Slides - https://ibm.biz/whatsapp-chatbot-slides
 - Hands-on - https://ibm.biz/whatsapp-chatbot-lab
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide1.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide1.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide2.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide2.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide3.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide3.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide4.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide4.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide5.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide5.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide6.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide6.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide7.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide7.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide8.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide8.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide9.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide9.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide10.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide10.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide11.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide11.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide12.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide12.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide13.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide13.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide14.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide14.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide15.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide15.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide16.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide16.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide17.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide17.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide18.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide18.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide19.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide19.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide20.jpeg?raw=true)
+![center](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide20.jpeg?raw=true)
 
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide21.jpeg?raw=true)
 
 
 +++ {"slideshow": {"slide_type": "slide"}}
