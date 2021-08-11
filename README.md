@@ -10,7 +10,7 @@ Twilio Sign Up: https://ibm.biz/whatsapp-chatbot-twilio <br/>
 Workshop Replay: https://www.crowdcast.io/e/africa-bootcamp3 
 
 ## Prerequisites
-- [IBM Cloud Account](http://ibm.biz/BdfyVx)
+- [IBM Cloud Account](https://ibm.biz/bootcamp-alu)
 - [Twilio Account](www.twilio.com/referral/jO1067)
 
 **Sign-up/Login to IBM Cloud**
