@@ -9,9 +9,18 @@ Slides: https://ibm.biz/whatsapp-chatbot-slides <br/>
 Twilio Sign Up: https://ibm.biz/whatsapp-chatbot-twilio <br/>
 Workshop Replay: https://www.crowdcast.io/e/africa-bootcamp3 
 
-**Prerequisites**
-- [IBM Cloud Account](http://ibm.biz/BdfyVx)
+## Prerequisites
+- [IBM Cloud Account](https://ibm.biz/bootcamp-alu)
 - [Twilio Account](www.twilio.com/referral/jO1067)
+
+**Sign-up/Login to IBM Cloud**
+There are 3 steps to create your account on IBM Cloud:
+1. Put your email and password.
+2. You get a verification link with the registered email to verify your account.
+3. Fill the personal information fields.
+
+![SignuptoIBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
+
 
 ## Architecture Diagram
 <img width="451" alt="Architecture_Diagram" src="https://user-images.githubusercontent.com/12492961/123856997-ce707200-d932-11eb-87be-65f91f0375bd.png">
