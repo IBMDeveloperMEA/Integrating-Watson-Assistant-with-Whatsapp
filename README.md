@@ -46,9 +46,7 @@ In this tutorial, we are assuming that you already know what Watson Assistant is
 6.	Now we need to set up and configure our Twilio sandbox to integrate it with Watson Assistant. In your Twilio Account, click on the icon that represents all products and services (it's below the home icon) on the left side go to Programmable Messaging from the expanded menu and select Try WhatsApp under the Try it out section. <br/>
 ![6](https://user-images.githubusercontent.com/12492961/118401202-c061dd00-b675-11eb-9472-8367940d716e.png)
 <br/> We will be using this testing sandbox for our integration. Send the given code/message to the number provided by Twilio from your WhatsApp. <br/>
-![6a](https://user-images.githubusercontent.com/12492961/118401223-e4bdb980-b675-11eb-885c-c0d8c71e7ba2.jpg)
-<br/> Click [here](https://api.whatsapp.com/send?phone=+1(415)523-8886&text=join%20design-thumb) to send the message to given number or Scan this QR Code. <br/>
-![WA](https://user-images.githubusercontent.com/12492961/118401683-a2957780-b677-11eb-88aa-93adb2b79271.png)
+![6a](https://user-images.githubusercontent.com/12492961/118401223-e4bdb980-b675-11eb-885c-c0d8c71e7ba2.jpg) <br/>
 <br/> Once it's done, you should see Message Received on Twilio like this image. <br/>
 ![6b](https://user-images.githubusercontent.com/12492961/118401243-fb641080-b675-11eb-927f-43188c4efbe2.png)
 <br/> This means that now your phone number is connected to this Twilio-WhatsApp sandbox. <br/>
